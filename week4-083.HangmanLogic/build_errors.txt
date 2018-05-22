@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\emeji\OneDrive\Documentos\NetBeansProjects\mooc-2013-OOProgrammingWithJava-PART1\week4-083.HangmanLogic\nbproject\build-impl.xml:930: The following error occurred while executing this line:
+C:\Users\emeji\OneDrive\Documentos\NetBeansProjects\mooc-2013-OOProgrammingWithJava-PART1\week4-083.HangmanLogic\nbproject\build-impl.xml:270: Compile failed; see the compiler error output for details.
+
+Total time: 2 seconds
